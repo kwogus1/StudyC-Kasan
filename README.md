@@ -1,5 +1,6 @@
 # Study C Basic
 C학습 리포지토리
+![Clogo](https://raw.githubusercontent.com/kwogus1/StudyC-Kasan/main/image/Clogo.png)
 
 <bar/>
 

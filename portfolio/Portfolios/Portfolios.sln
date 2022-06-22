@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BookManagamentApp", "BookManagamentApp\BookManagamentApp.vcxproj", "{8EAD456E-D82F-421F-8923-1D9BB2D517F2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NewBMSApp", "NewBMSApp\NewBMSApp.vcxproj", "{F791A3E9-ED72-486B-B716-F1F952C8B5E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{8EAD456E-D82F-421F-8923-1D9BB2D517F2}.Release|x64.Build.0 = Release|x64
 		{8EAD456E-D82F-421F-8923-1D9BB2D517F2}.Release|x86.ActiveCfg = Release|Win32
 		{8EAD456E-D82F-421F-8923-1D9BB2D517F2}.Release|x86.Build.0 = Release|Win32
+		{F791A3E9-ED72-486B-B716-F1F952C8B5E9}.Debug|x64.ActiveCfg = Debug|x64
+		{F791A3E9-ED72-486B-B716-F1F952C8B5E9}.Debug|x64.Build.0 = Debug|x64
+		{F791A3E9-ED72-486B-B716-F1F952C8B5E9}.Debug|x86.ActiveCfg = Debug|Win32
+		{F791A3E9-ED72-486B-B716-F1F952C8B5E9}.Debug|x86.Build.0 = Debug|Win32
+		{F791A3E9-ED72-486B-B716-F1F952C8B5E9}.Release|x64.ActiveCfg = Release|x64
+		{F791A3E9-ED72-486B-B716-F1F952C8B5E9}.Release|x64.Build.0 = Release|x64
+		{F791A3E9-ED72-486B-B716-F1F952C8B5E9}.Release|x86.ActiveCfg = Release|Win32
+		{F791A3E9-ED72-486B-B716-F1F952C8B5E9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

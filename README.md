@@ -43,9 +43,11 @@ C학습 리포지토리
 
 #### 실행화면
 ![displaydata](https://raw.githubusercontent.com/kwogus1/StudyC-Kasan/main/image/display_data.png)
+
 기본 조회화면
 
 <br/>
 
 ![editdate](https://raw.githubusercontent.com/kwogus1/StudyC-Kasan/main/image/edit_data.png)
+
 책정보 수정화면

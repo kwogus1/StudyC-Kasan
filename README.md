@@ -32,11 +32,20 @@ C학습 리포지토리
   - 파일 입출력
 - MySQL DB 학습
 
-## Day 4
+## Day 4 ~ 5
 - 실습예제
   - 도서관 관리 프로그램(MYSQL)
-  - 이미지 편집기
-  - 소코반
-  - 주소록 프로그램(MySQL)
+    - MSVC(C)
+    - MySQL Connector C 6.1
+    - MySQL Server 
 
-## Day 5
+<br/>
+
+#### 실행화면
+![displaydata](https://raw.githubusercontent.com/kwogus1/StudyC-Kasan/main/image/display_data.png)
+기본 조회화면
+
+<br/>
+
+![editdate](https://raw.githubusercontent.com/kwogus1/StudyC-Kasan/main/image/edit_data.png)
+책정보 수정화면
